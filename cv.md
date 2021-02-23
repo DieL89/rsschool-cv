@@ -45,10 +45,10 @@ http://kb-servis.by, https://primebeli.by, http://belwater.by, https://benzstyle
 April 2013 – August 2014
 
 Duties:
-*	internal and external search engine optimization;
-*	website promotion in Google and Yandex search engines;
-*	creation of advertising campaigns in Google AdWords and Yandex.Direct;
-*	monitoring positions of website's keywords in major search engines.
+* internal and external search engine optimization;
+* website promotion in Google and Yandex search engines;
+* creation of advertising campaigns in Google AdWords and Yandex.Direct;
+* monitoring positions of website's keywords in major search engines.
 
 ## Education
 
