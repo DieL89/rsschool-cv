@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: "Helvetica", "Arial", sans-serif;
+  margin: 0;
+  font-size: 17px;
+  line-height: 23px;
+  color: #000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+p:last-child,
+ul:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: #673ab7;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+.unstyled {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul {
+  margin-top: 0;
+}
+
+li + li {
+  margin-top: 5px;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 15px 15px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 576px) {
+  header {
+    flex-direction: column-reverse;
+  }
+
+  .col-1 {
+    margin-top: 20px;
+  }
+}
+
+.position {
+  font-style: italic;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.scope,
+.working-conditions {
+  margin-top: 25px;
+}
+
+figure {
+  margin: 0;
+  line-height: 0;
+}
+
+.col-2 img {
+  max-width: 250px;
+}
+
+section {
+  padding-top: 30px;
+}
+
+.occupation {
+  margin-top: 28px;
+}
+
+.company {
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.period {
+  margin: 12px 0;
+  font-style: italic;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 45px;
+  margin-top: 30px;
+  padding-top: 25px;
+  border-top: 1px solid #ddd;
+}
+
+.developer {
+  align-self: center;
+  font-weight: bold;
+}
+
+.copyright {
+  margin-right: 10px;
+}
+
+.rsschool-logo {
+  display: block;
+  width: 100px;
+  height: auto;
+}
+
+.rsschool-logo img {
+  width: 100%;
+}
